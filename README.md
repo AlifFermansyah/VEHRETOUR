@@ -1,0 +1,2 @@
+# VEHRETOUR
+Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen buat para pelanggan dan admin dimana didalamnya terdapat informasi mengenai list pilihan wisata dan para pelanggan bisa mengetahui pada hari apa saja travel ini membuka pelayanan. Untuk admin, kami menyediakan login yakni dengan username dan password yang sudah ditentukan, lalu ada sistem dimana pesanan harus diverifikasi oleh admin sebelum menuju menu laporan yang berisi total biaya wisata serta menampilkan list daftar pelanggan yang memesan tiket wisata
