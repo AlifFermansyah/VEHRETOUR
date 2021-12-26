@@ -17,16 +17,16 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 
 <h1>DATA YANG DIGUNAKAN</h1>
 
-1. ISI YAA
-2. ISI YAA
-3. ISI YAA
+1. Data
+2. Tanggal
+3. Nomor
 
 <h1>METODE</h1>
-
+#Indy
 isi disini ya nanti
 
 <h1>LIST MENU PADA PROGRAM "VEHRETOUR"</h1>
-
+#Nora
 1. isi yaa
 2. isi yaa
 3. isi yaa
