@@ -454,7 +454,7 @@ int main(){
     		printf("=>            PANEL PENGUNJUNG            <=\n");
     		printf("============================================\n");
     		printf("                                          ||\n");
-			printf("1. Pilih Tempat Wisata                             ||\n");
+			printf("1. Pilih Tempat Wisata                            ||\n");
 			printf("2. Lihat Jadwal Terbang                   ||\n");
 			printf("3. Keluar                                 ||\n");
 			printf("                                          ||\n");
