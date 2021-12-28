@@ -10,7 +10,6 @@ int isExistFile(char *fileName)
 	fp = fopen(fileName, "r");
 	if (fp == NULL)
 	{
-
 		return 0;
 	}
 	else
