@@ -28,10 +28,10 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 
 
 <h1>LIST MENU PADA PROGRAM "VEHRETOUR"</h1>
-#Nora
-1. isi yaa
-2. isi yaa
-3. isi yaa
+1. Pemesanan tiket dengan menambahkan Data
+2. Edit Pemesanan
+3. Urutan Pemesanan
+4. Hapus Pemesanan
 
 <h1>CARA PENGGUNAAN APLIKASI</h1>
 
