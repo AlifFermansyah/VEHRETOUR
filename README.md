@@ -22,8 +22,10 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 3. Nomor
 
 <h1>METODE</h1>
-#Indy
-isi disini ya nanti
+1. Menggunakan Boolean
+2. Menggunakan Pointer
+3. Menggunakan Struct
+
 
 <h1>LIST MENU PADA PROGRAM "VEHRETOUR"</h1>
 #Nora
@@ -33,4 +35,6 @@ isi disini ya nanti
 
 <h1>CARA PENGGUNAAN APLIKASI</h1>
 
-isi ya guiss
+Penggunaan aplikasi ini sangatlah muda, di dalam list menu terdapat 3 tabel menu yaitu sebagai pengunjung (orang yang akan melakukan pemesanan tiket), admin (orang yang akan mengelola tiket) dan tabel keluar jika ingin keluar aplikasi tersebut.
+Untuk pengunjung : bisa memilih tempat wisata yang akan diinginkan ataupun bisa mengecek jadwal terbang dari travel ini. Dan juga dalam pemesanannya jika ada tiket yang sudah dipesan maka tidak dapat memesan kembali.
+Untuk Admin : bisa mengecek pengunjung yang telah melakukan pemesanan dan bisa melihat jadwal yang telah diisi.
