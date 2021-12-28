@@ -33,8 +33,7 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 
  List menu yang ditawarkan
 	
-	Karena kita berusaha membuat program yang menyerupai aplikasi maka, 
-ditampilan utama atau pertama saat program di run akan terlihat 3 opsi yakni,
+Karena kita berusaha membuat program yang menyerupai aplikasi maka, ditampilan utama atau pertama saat program di run akan terlihat 3 opsi yakni:
 
 1.) Pengunjung (untuk memilih destinasi yang diinginkan)
 	(a) Tempat destinasi (akan ada pilihan destinasi dan untuk tanggal
