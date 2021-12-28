@@ -3,13 +3,14 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-
+#include <errno.h>
 int isExistFile(char *fileName)
 {
 	FILE *fp;
 	fp = fopen(fileName, "r");
 	if (fp == NULL)
 	{
+
 		return 0;
 	}
 	else
@@ -139,6 +140,8 @@ void loadDataVerif(node **root)
 					break;
 				}
 				newNode->nomor = atoi(a);
+				newNode->left = NULL;
+				newNode->right = NULL;
 				// dequeue
 				insert(root, newNode);
 				// Masukkan data ke setiap nodes
@@ -163,6 +166,7 @@ void rewriteQueqe(queue myQueue)
 	if (temp != NULL)
 
 	{
+
 		while (temp)
 		{
 			if (temp == NULL)
@@ -485,11 +489,19 @@ node *creatEnode(int bil, char judul[30])
 void insert(node **root, node *newNode)
 { // MASUKKAN DATA KE NODE
 	if (*root == NULL)
+	{
+
 		*root = newNode;
+	}
 	else if (newNode->nomor < (*root)->nomor)
 		insert(&((**root).left), newNode);
+
 	else
+	{
+
 		insert(&((**root).right), newNode);
+	}
+	// printf("");
 }
 
 void inorder(node *root, int *a, int *b, int *c)
@@ -511,7 +523,7 @@ void inorder(node *root, int *a, int *b, int *c)
 }
 
 node *findLargestBST(node *root)
-{ 
+{
 	if (root->right == NULL)
 		return (root);
 	else
