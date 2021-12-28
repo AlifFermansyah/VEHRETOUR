@@ -29,10 +29,16 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 
 <h1>LIST MENU PADA PROGRAM "VEHRETOUR"</h1>
 
-1. Pemesanan tiket dengan menambahkan Data
-2. Edit Pemesanan
-3. Urutan Pemesanan
-4. Hapus Pemesanan
+Menu pada program kami terdapat 2 yaitu sebagai pengunjung dan admin 
+> Pengunjung :  
+  - Memilih tempat wisata yang telah kami sediakan > melakukan pemesanan 
+  - Lihat Jadwal Terbang 
+> Admin :
+  - Tampilan Antrian 
+  - Verifikasi Pemesanan
+  - Tanggal Pelayanan 
+  - Laporan Hari Ini
+                
 
 <h1>CARA PENGGUNAAN APLIKASI</h1>
 
