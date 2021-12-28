@@ -1,6 +1,6 @@
 <h1>VEHRETOUR</h1>
 
-Taruh gambarnya ya guiss hehehe
+![WhatsApp Image 2021-12-28 at 09 13 27](https://user-images.githubusercontent.com/89888415/147520827-aa7ec24c-ae2c-4ae8-a21d-60f0ae9d1737.jpeg)
 
 | NAMA ANGGOTA KELOMPOK 9    |      NPM     | 
 | ------------------------   | ------------ |
