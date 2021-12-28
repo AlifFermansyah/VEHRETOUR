@@ -35,6 +35,6 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 
 <h1>CARA PENGGUNAAN APLIKASI</h1>
 
-Penggunaan aplikasi ini sangatlah muda, di dalam list menu terdapat 3 tabel menu yaitu sebagai pengunjung (orang yang akan melakukan pemesanan tiket), admin (orang yang akan mengelola tiket) dan tabel keluar jika ingin keluar aplikasi tersebut.
+Penggunaan aplikasi ini sangatlah muda, di dalam list menu terdapat 3 tabel menu yaitu sebagai pengunjung (orang yang akan melakukan pemesanan tiket), admin (orang yang akan mengelola tiket) dan tabel keluar jika ingin keluar aplikasi tersebut.</h1>
 Untuk pengunjung : bisa memilih tempat wisata yang akan diinginkan ataupun bisa mengecek jadwal terbang dari travel ini. Dan juga dalam pemesanannya jika ada tiket yang sudah dipesan maka tidak dapat memesan kembali.
 Untuk Admin : bisa mengecek pengunjung yang telah melakukan pemesanan dan bisa melihat jadwal yang telah diisi.
