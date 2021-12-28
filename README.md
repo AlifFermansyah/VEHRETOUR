@@ -22,7 +22,7 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 
 <h1>METODE</h1>
 
-1. Menggunakan Boolean
+1. Menggunakan Boolean 
 2. Menggunakan Pointer
 3. Menggunakan Struct
 4. Menggunakan Binary Search
@@ -58,4 +58,4 @@ ditampilan utama atau pertama saat program di run akan terlihat 3 opsi yakni,
 
 <h1>CARA PENGGUNAAN APLIKASI</h1>
 
-Penggunaan aplikasi ini sangatlah muda, di dalam list menu terdapat 3 tabel menu yaitu sebagai pengunjung (orang yang akan melakukan pemesanan tiket), admin (orang yang akan mengelola tiket) dan tabel keluar jika ingin keluar aplikasi tersebut. Untuk pengunjung bisa memilih tempat wisata yang akan diinginkan ataupun bisa mengecek jadwal terbang dari travel ini. Dan juga dalam pemesanannya jika ada tiket yang sudah dipesan maka tidak dapat memesan kembali. Untuk Admin bisa mengecek pengunjung yang telah melakukan pemesanan dan bisa melihat jadwal yang telah diisi.
+Penggunaan aplikasi ini sangatlah muda, di dalam list menu terdapat 3 tabel menu yaitu sebagai pengunjung (orang yang akan melakukan pemesanan tiket), admin (orang yang akan mengelola tiket) dan tabel keluar jika ingin keluar aplikasi tersebut. Untuk pengunjung bisa memilih tempat wisata yang akan diinginkan ataupun bisa mengecek jadwal terbang dari travel ini. Dan juga dalam pemesanannya jika ada tiket yang sudah dipesan maka tidak dapat memesan kembali. Untuk Admin bisa mengecek pengunjung yang telah melakukan pemesanan dan bisa melihat jadwal yang telah diisi. Selain itu juga bisa diamati setiap pesanan yang telah masuk difile txt yang otomatis terbuat ketika program dijalankan. Jadi disini, admin bertugas untuk mengawasi, memverifikasi lalu laporan(data laba pesanan) supaya data pesanan langsung masuk ke file txt Verifikasi. Dengan begitu admin akan memiliki data valid sekaligus bisa buat cadangan data pemesanan tiket travel.
