@@ -88,26 +88,6 @@ void display(queue myQueue){            // TAMPILKAN ANTRIAN
 		}
 	}
 }
-
-//fungsi bubble sort ascending
-void bubbleSortAsc(){
-	int i,j;
-	//mengulang sebanyak 14 kali sebanyak n-1 data
-	for( i=0; i<15-1; i++){
-		for( j=0; j<15-1; j++){
-			//jika angka index x+1 lebih kecil dari angka index x
-			if(data[j+1]<temp[j]){
-				//tampung angka index x ke temp
-				int temp=data[j];
-				//ubah angka index x menjadi angka index x+1
-				data[j]=data[j+1];
-				//ubah angka index x+1 menjadi angka temp
-				data[j+1]=temp;
-			}
-		}
-	}
-}
- 
 // =============================================================================================================================================================
 
 node *createnOde(int bil){   // NODE BUAT SINGLE LINKED LIST
