@@ -163,7 +163,6 @@ void rewriteQueqe(queue myQueue)
 	if (temp != NULL)
 
 	{
-
 		while (temp)
 		{
 			if (temp == NULL)
