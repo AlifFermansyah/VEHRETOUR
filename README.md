@@ -7,8 +7,8 @@
 | Alief Indy Milani          | 20081010013  |
 | Anita Puspitasari          | 20081010015  |
 | Alif Fermansyah            | 20081010030  |
-| Galan Ahmad Defanka        | 20081010015  |
-| Sintya Fadillah Nurrahman  | 20081010015  |
+| Galan Ahmad Defanka        | 20081010031  |
+| Sintya Fadillah Nurrahman  | 20081010034  |
 | Nora Mina                  | 20081010042  |
 
 <h1>DESKRIPSI PROJECT AKHIR "VEHRETOUR"</h1>
