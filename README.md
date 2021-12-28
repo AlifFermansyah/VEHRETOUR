@@ -25,20 +25,36 @@ Jadi diprogram untuk final project kami, menyediakan sebuah aplikasi manajemen b
 1. Menggunakan Boolean
 2. Menggunakan Pointer
 3. Menggunakan Struct
+4. Menggunakan Binary Search
+5. Menggunakan Operation File
 
 
 <h1>LIST MENU PADA PROGRAM "VEHRETOUR"</h1>
 
-Menu pada program kami terdapat 2 yaitu sebagai pengunjung dan admin 
-> Pengunjung :  
-  - Memilih tempat wisata yang telah kami sediakan > melakukan pemesanan 
-  - Lihat Jadwal Terbang 
-> Admin :
-  - Tampilan Antrian 
-  - Verifikasi Pemesanan
-  - Tanggal Pelayanan 
-  - Laporan Hari Ini
-                
+ List menu yang ditawarkan
+	
+	Karena kita berusaha membuat program yang menyerupai aplikasi maka, 
+ditampilan utama atau pertama saat program di run akan terlihat 3 opsi yakni,
+
+1.) Pengunjung (untuk memilih destinasi yang diinginkan)
+	(a) Tempat destinasi (akan ada pilihan destinasi dan untuk tanggal
+	    berapa pesanan tersebut)
+	(b) Lihat jadwal kerja (hari apa saja dibukanya travel)
+	(c) Keluar
+
+2.) Admin (yakni sebagai administrator, akan ada fitur memverifikasi pesanan 
+	   sebelum dihitung total laba dari pesanan secara otomatis, ada jadwal 
+	   kerja/buka travel dan pengurutan otomatis pesanan berdasarkan tanggal
+	   pemesan)
+	(a) Username dan password untuk bisa mengakses admin
+	(b) Tampilan antrian (menampilkan ada apa saja pesanan yang terisi)
+	(c) Verifikasi (tahap dimana admin akan memverifikasi terlebih dahulu
+	    supaya pesanan valid dan masuk otomatis ke tahap selanjutnya)
+	(d) Laporan (Berisi tentang rincian data atau lebih tepatnya tentang laba dari list pemesanan)
+  (e) Keluar program admin
+  
+3.) keluar program
+
 
 <h1>CARA PENGGUNAAN APLIKASI</h1>
 
